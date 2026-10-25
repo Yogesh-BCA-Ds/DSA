@@ -1,20 +1,54 @@
-# C++ DSA Journey 🚀
+🚀 C++ & Data Structures and Algorithms
 
-My journey of learning C++ and Data Structures & Algorithms.
+Welcome to my DSA learning journey! This repository contains my C++ practice programs, array problems, searching algorithms, and other problem-solving exercises.
 
-## 📂 Programs
+I'm building my programming fundamentals and problem-solving skills.
 
-- [C++ Experiments](clang.cpp)
-- [Calculator](calculator.cpp)
+📂 Repository Structure
 
-## 📚 Topics
-- Variables and Data Types
-- Input and Output
-- Type Conversion
-- Conditions
-- Functions
+Category| Description
+"📘 C++ Basics" (./c%2B%2B_basics/)| C++ fundamentals and basic programs
+"📊 Arrays" (./arrays/)| Array operations and problem-solving
+"🔍 Searching Algorithms" (./searching_algorithm/)| Searching techniques and implementations
+"🧩 Set 1 Problems" (./set1_problems/)| Practice problems and solutions
 
-More programs will be added as I learn.
+💻 Programs
 
-## 👨‍💻 Author
-[Yogesh](https://github.com/Yogesh-BCA-Ds)
+C++ Basics
+
+- "C++ Experiments" (./c%2B%2B_basics/)
+- "Calculator" (./c%2B%2B_basics/)
+
+Arrays
+
+- "Explore Array Programs" (./arrays/)
+
+Searching Algorithms
+
+- "Explore Searching Programs" (./searching_algorithm/)
+
+Problem Solving
+
+- "Explore Set 1 Problems" (./set1_problems/)
+
+🎯 Goals
+
+- Improve logical thinking and problem-solving skills.
+- Practise Data Structures and Algorithms.
+- Prepare for technical interviews and a future career in technology.
+
+🛠️ Languages and Tools
+
+- Language: C++
+- Platform: GitHub
+- Focus: DSA and problem-solving
+
+📈 Progress
+
+This repository is a work in progress. I'll continue adding programs and organising solutions as I learn new concepts.
+
+👨‍💻 Author
+
+Yogesh N
+BCA Student | Aspiring Data Scientist
+
