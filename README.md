@@ -1,54 +1,54 @@
-🚀 C++ & Data Structures and Algorithms
+# 🚀 C++ & Data Structures and Algorithms
 
 Welcome to my DSA learning journey! This repository contains my C++ practice programs, array problems, searching algorithms, and other problem-solving exercises.
 
 I'm building my programming fundamentals and problem-solving skills.
 
-📂 Repository Structure
+## 📂 Repository Structure
 
-Category| Description
-"📘 C++ Basics" (./c%2B%2B_basics/)| C++ fundamentals and basic programs
-"📊 Arrays" (./arrays/)| Array operations and problem-solving
-"🔍 Searching Algorithms" (./searching_algorithm/)| Searching techniques and implementations
-"🧩 Set 1 Problems" (./set1_problems/)| Practice problems and solutions
+| Category | Description |
+| --- | --- |
+| [📘 C++ Basics](./c%2B%2B_basics/) | C++ fundamentals and basic programs |
+| [📊 Arrays](./arrays/) | Array operations and problem-solving |
+| [🔍 Searching Algorithms](./searching_algorithm/) | Searching techniques and implementations |
+| [🧩 Set 1 Problems](./set1_problems/) | Practice problems and solutions |
 
-💻 Programs
+## 💻 Programs
 
-C++ Basics
+### C++ Basics
 
-- "C++ Experiments" (./c%2B%2B_basics/)
-- "Calculator" (./c%2B%2B_basics/)
+- [C++ Experiments](./c%2B%2B_basics/)
+- [Calculator](./c%2B%2B_basics/)
 
-Arrays
+### Arrays
 
-- "Explore Array Programs" (./arrays/)
+- [Explore Array Programs](./arrays/)
 
-Searching Algorithms
+### Searching Algorithms
 
-- "Explore Searching Programs" (./searching_algorithm/)
+- [Explore Searching Programs](./searching_algorithm/)
 
-Problem Solving
+### Problem Solving
 
-- "Explore Set 1 Problems" (./set1_problems/)
+- [Explore Set 1 Problems](./set1_problems/)
 
-🎯 Goals
+## 🎯 Goals
 
 - Improve logical thinking and problem-solving skills.
 - Practise Data Structures and Algorithms.
 - Prepare for technical interviews and a future career in technology.
 
-🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 - Language: C++
 - Platform: GitHub
 - Focus: DSA and problem-solving
 
-📈 Progress
+## 📈 Progress
 
 This repository is a work in progress. I'll continue adding programs and organising solutions as I learn new concepts.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Yogesh N
+Yogesh N  
 BCA Student | Aspiring Data Scientist
-
