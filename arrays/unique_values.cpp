@@ -1,26 +1,27 @@
 # include <iostream>
 using namespace std;
 
-void unique(int arr[],int size){
+void unique1(int arr[],int size){
+
     for (int i=0; i<size; i++){
-        int u = arr[i];
-        int c = 0;
+        int val = arr[i];
+        bool is_unique = true;
         for (int j=0; j<size; j++){
-            if (u == arr[j]){
-                c = c+1;
+            if (i!=j && arr[i] == arr[j]){
+                is_unique = false;
                 }
-            if (c>=1){
-               arr[i] = 0;
-               arr[j] = 0;
-               break;
+
                }
+        if (is_unique){
+        cout << arr[i] << endl;}
            }
        }
-}
+
 
 int main(){
-int arr[] = {1,1,2,3,4};
-cout << unique(arr,4) << endl;
+int arr[] = {1,1,2,2,0,3,3,4};
+unique1(arr,8
+);
 return 0;
 }
 
